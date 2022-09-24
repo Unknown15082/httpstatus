@@ -1,4 +1,4 @@
-module github.com/Unknown15082/HTTP-Status-Code
+module github.com/Unknown15082/httpstatus
 
 go 1.19
 

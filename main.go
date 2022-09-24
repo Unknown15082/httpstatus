@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Unknown15082/HTTP-Status-Code/cmd"
+	"github.com/Unknown15082/httpstatus/cmd"
 )
 
 func main() {
